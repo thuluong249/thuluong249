@@ -30,17 +30,9 @@ Since I moved to the US from Vietnam two years ago, I held two part-time jobs an
 
 ![Schema](./images/schema.png)
 
-![Homepage](./images/homepage.png)
-
-## [Employee-Tracker](https://thuluong249.github.io/hw12-emplyee-tracker/)
-
-`Employee-tracker is an application that allows user to manage their employees in a content managerment system. The user can also view and manage all the departments, roles and employee.`
-
-![Schema](./images/schema.png)
- 
-# Contact
+# Contact Infomations
 
 * [Github](https://github.com/thuluong249)
 * [LinkedIn](https://www.linkedin.com/in/thu-luong-8aa013212/)
-* <a href="mailto:thujtn2019@gmmail.com">💌 Email</a> 
+* <a href="mailto:thujtn2019@gmmail.com">💌 Email me</a> 
 
