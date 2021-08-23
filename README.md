@@ -7,19 +7,28 @@ Since I moved to the US from Vietnam two years ago, I held two part-time jobs an
 
 # 📝🔖 Skills/Languages 📝🔖
 
-- HTML
-- CSS
-- Javascript
-- JQuery
-- SQL
+        HTML/CSS
+        Bootstrap
+        Javascript
+        Node Js
+        Express
+        MySQL
 
 
 
 # Projects 💻
 
-- [Note Taker](https://thuluong249.github.io/homework11-note-taker/)
+## [Note-Taker](https://thuluong249.github.io/homework11-note-taker/)
 
-- [Employee Tracker](https://thuluong249.github.io/hw12-emplyee-tracker/)
+`Note-Taker is an application that allows user to create notes in the back-end. Then they can view their notes by clicking on them in the list. The user is also able to delete them.`
+
+![Homepage](./images/homepage.png)
+
+## [Employee-Tracker](https://thuluong249.github.io/hw12-emplyee-tracker/)
+
+`Employee-tracker is an application that allows user to manage their employees in a content managerment system. The user can also view and manage all the departments, roles and employee.`
+
+![Schema](./images/schema.png)
 
 
 # Contact
